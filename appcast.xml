@@ -3,6 +3,16 @@
     <channel>
         <title>IslandAgent</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Wed, 22 Jul 2026 01:06:45 +0700</pubDate>
+            <link>https://github.com/cznpsk/IslandAgent-updates</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/cznpsk/IslandAgent-updates/releases/download/v1.0.8/IslandAgent-1.0.8.dmg" length="4148490" type="application/octet-stream" sparkle:edSignature="QFVC4QnhpMJaR2IhnbdU3N1FgbBkJCVALtPF+yZQK3NeD4zpsljky1xOw6mq53WuaWPFWnQJgnrV9309sSwTDA=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Wed, 22 Jul 2026 00:57:52 +0700</pubDate>
             <link>https://github.com/cznpsk/IslandAgent-updates</link>
