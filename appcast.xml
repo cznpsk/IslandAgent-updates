@@ -132,7 +132,5 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/cznpsk/IslandAgent-updates/releases/download/v0.1.3/IslandAgent-0.1.3.dmg" length="4104441" type="application/octet-stream" sparkle:edSignature="9XTGL9MA0SpSco/p2IfOBGC/AUJfqj0IWb8Yy6SGoHXMxKcJPTjVDza67/12MJEgnSoMS1w+sLcdEZu0EBFrBA=="/>
         </item>
-        <item>
-        </item>
     </channel>
 </rss>
