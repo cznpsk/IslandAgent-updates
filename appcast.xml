@@ -1,7 +1,17 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>IslandAgent</title>
+    <title>IslandAgent</title>
+    <item>
+      <title>1.0.27</title>
+      <pubDate>Sat, 08 Aug 2026 19:00:00 +0700</pubDate>
+      <link>https://github.com/cznpsk/IslandAgent-updates</link>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/cznpsk/IslandAgent-updates/releases/download/v1.0.27/IslandAgent-1.0.27.dmg" length="6030519" type="application/octet-stream" sparkle:edSignature="vQKt51p8G1f3FXtJjTid2CyYpDncn3cL1qsQxJBYR448TLbTXc6wenfYMMNJh+6sb4uQN5eV7PuxTJ31fKpNCg=="/>
+    </item>
         <item>
             <title>1.0.26</title>
             <pubDate>Thu, 06 Aug 2026 03:48:57 +0700</pubDate>
